@@ -211,9 +211,9 @@ avoxi-billing-analysis/
 
 **David Madison**
 - Data Analyst specializing in telecommunications and financial analysis
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio]
+- LinkedIn: [https://www.linkedin.com/in/davidmadison95/]
+- Email: davidmadison95@yahoo.com
+- Portfolio: [https://github.com/davidmadison95]
 
 ## 📄 License
 
@@ -228,5 +228,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this analysis useful, please consider giving it a star!
+
 
 **Last Updated:** October 2025
