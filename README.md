@@ -133,7 +133,7 @@ python --version  # Should be 3.8 or higher
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/avoxi-billing-analysis.git
+git clone https://github.com/davidmadison95/avoxi-billing-analysis
 cd avoxi-billing-analysis
 ```
 
@@ -231,3 +231,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Last Updated:** October 2025
+
